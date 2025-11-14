@@ -1,2 +1,2 @@
 # macsworkspaces
-Miscellaneous Scripts and Configurations for Malware Analysis Cases Studies
+Miscellaneous Programs, Scripts and Configurations Files for Malware Analysis Cases Studies
